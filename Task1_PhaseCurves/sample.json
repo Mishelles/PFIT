@@ -1,0 +1,8 @@
+{
+  "eps": "5.7",
+  "radius": "0.009",
+  "power": "1000000000",
+  "precision": "-6",
+  "initial_frequency": "2.0",
+  "max_root": "10"
+}
